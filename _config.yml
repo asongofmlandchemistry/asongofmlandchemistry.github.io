@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Kabir Ahuja"
-  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Bangalore, India"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       #url: mailto:kabirahuja2431@gmail.com
+       url: "mailto:kabirahuja2431@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
