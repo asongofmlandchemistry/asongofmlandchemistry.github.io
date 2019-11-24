@@ -49,5 +49,19 @@ Hence a neural network can learn different linear functions by setting some neur
 
 As we can see from the figure, in the first case all the hidden units except the first one are off hence the input only passes from the first unit to the output,whereas in the second case all hidden units are off except the second one. This means that a neural net can learn to turn on or off certain neurons for certain values and hence learn different linear functions for different ranges of values.This is the reason why a neural network manages to learn very complex decision boundaries.Please note that it isnt necessary to have only one neuron activated at a time, I just used it to demonstrate the fact that a neural network can learn different linear functions for different values. I also tried different values of hidden units and got the following results.
 
+![alt-text-1](/images/neuralnets/dbnn4.png "4 hidden units") ![alt-text-2](/images/neuralnets/nndb5.png "5 hidden units") ![alt-text-3](/images/neuralnets/nndb10.png "10 hidden units")
+
+Then I tried a different dataset and trained neural network models with different number of hidden units.
+
+![alt-text-1](/images/neuralnets/circle.png "Dataset") ![alt-text-2](/images/neuralnets/5.png "5 hidden units") ![alt-text-3](/images/neuralnets/15.png "15 hidden units")
+
+## Conclusion
+
+Today we saw the reasons why neural networks works so well on machine learning problems.I will like to mention one thing though that due to a lot of flexibility to learn different non linear functions it is very easy for neural networks to overfit the data. Remember with great power (neural nets) comes great responsibilies(to prevent overfiting). Hence we need to be careful and choose different regularization techniques like L2 and dropout while training our models. I hope that this post gave you some intuition about neural nets. You can check the code I used for training and visualizing decision boundaries [right here](https://github.com/kabirahuja2431/NeuralNetsVisualizations) So thats it for today, see you guys next time. :)
+
+## References
+
+* [Neural Networks for Decision Boundary in Python!](https://medium.com/ml-algorithms/neural-networks-for-decision-boundary-in-python-b243440fb7d1)
+
 
                                  
