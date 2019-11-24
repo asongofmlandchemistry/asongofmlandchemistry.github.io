@@ -48,8 +48,9 @@ Hence a neural network can learn different linear functions by setting some neur
 ![alt text](/images/neuralnets/export.png)
 
 As we can see from the figure, in the first case all the hidden units except the first one are off hence the input only passes from the first unit to the output,whereas in the second case all hidden units are off except the second one. This means that a neural net can learn to turn on or off certain neurons for certain values and hence learn different linear functions for different ranges of values.This is the reason why a neural network manages to learn very complex decision boundaries.Please note that it isnt necessary to have only one neuron activated at a time, I just used it to demonstrate the fact that a neural network can learn different linear functions for different values. I also tried different values of hidden units and got the following results.
-
-![alt-text-1](/images/neuralnets/dbnn4.png "4 hidden units") ![alt-text-2](/images/neuralnets/nndb5.png "5 hidden units") ![alt-text-3](/images/neuralnets/nndb10.png "10 hidden units")
+Solarized dark             |  Solarized Ocean         |  Solarized Ocean
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/images/neuralnets/dbnn4.png)  |  ![](/images/neuralnets/nndb5.png) | ![](/images/neuralnets/nndb10.png) 
 
 Then I tried a different dataset and trained neural network models with different number of hidden units.
 
