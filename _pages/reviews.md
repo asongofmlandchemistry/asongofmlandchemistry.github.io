@@ -1,8 +1,7 @@
 ---
 title: "Movie and TV Reviews"
-layout: tag
 permalink: "/reviews/"
-taxonomy: review
-#header:
+redirect_to:
+  - https://www.picuki.com/profile/amoviebuffhufflepuff
 #    image: "/images/header.jpg"
 ---
