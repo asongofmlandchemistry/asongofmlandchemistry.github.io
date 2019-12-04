@@ -1,7 +1,7 @@
 ---
 title: "Neural Networks: Why thou so Powerful!"
 date: 2017-06-30
-tags: [neural networks, decison boundaries, activation functions, piecewise linear]
+tags: [neural networks, decison boundaries, activation functions, piecewise linear, machine learning]
 #header:
 #    image: "/images/header.jpg"
 ---

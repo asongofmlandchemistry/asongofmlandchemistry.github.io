@@ -16,3 +16,6 @@ main:
 
   - title: "Tutorials"
     url: "/tutorials/"
+
+  - title: "Machine Learning"
+    url: "/ml/"
