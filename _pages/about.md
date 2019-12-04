@@ -1,8 +1,8 @@
 ---
 title: "About"
 permalink: "/about/"
-header:
-    image: "/images/header.jpg"
+#header:
+#    image: "/images/header.jpg"
 ---
 
 My name is Kabir Ahuja, a 2019 graduate Birla Institute of Technology and Science, Pilani in 2019 with a major in Chemical Engineering.
