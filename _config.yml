@@ -13,7 +13,8 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+plugins:
+  - jekyll-redirect-from
 # Site Settings
 locale                   : "en-US"
 title                    : "Kabir Ahuja"
