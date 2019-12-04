@@ -18,4 +18,4 @@ main:
     url: "/tutorials/"
 
   - title: "Movie and TV Reviews"
-    url: "/ml/"
+    url: "/reviews/"
