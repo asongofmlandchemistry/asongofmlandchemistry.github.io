@@ -17,5 +17,5 @@ main:
   - title: "Tutorials"
     url: "/tutorials/"
 
-  - title: "Machine Learning"
+  - title: "Movie and TV Reviews"
     url: "/ml/"

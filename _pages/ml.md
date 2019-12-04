@@ -1,9 +1,8 @@
 ---
-title: "Machine Learning"
+title: "Movie and TV Reviews"
 layout: tag
-permalink: "/ml/"
-taxonomy: machine learning
-
+permalink: "/reviews/"
+taxanomy: review
 #header:
 #    image: "/images/header.jpg"
 ---
