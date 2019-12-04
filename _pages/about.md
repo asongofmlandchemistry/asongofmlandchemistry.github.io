@@ -5,7 +5,7 @@ header:
     image: "/images/header.jpg"
 ---
 
-I am Kabir Ahuja. I graduated from Birla Institute of Technology and Science, Pilani in 2019 with a major in Chemical Engineering.
+My name is Kabir Ahuja, a 2019 graduate Birla Institute of Technology and Science, Pilani in 2019 with a major in Chemical Engineering.
 I have a diverse set of Academic experiences ranging from Computational Chemistry to Natural Language Processing. Currently, I am
 working as a Research Assistant at the Machine and Language Learning Lab under the supervision of Professor Partha Talukdar.
 My current research involves around Syntax Guided Paraphrase Generation, where the task is to rephrase a sentence to retain it's
